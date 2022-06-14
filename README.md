@@ -41,4 +41,4 @@ To compare RMSE of two different fits with different sigma values, load the file
 ## References:
 - Saqlain, M., Alam, M., Rönnegård, L., & Westin, J. (2020). Investigating stochastic differential equations modelling for levodopa infusion in patients with Parkinson’s disease. European journal of drug metabolism and pharmacokinetics, 45(1), 41-49.
 - Westin J, Nyholm D, Pålhagen S, Willows T, Groth T, Dougherty M, Karlsson MO. A pharmacokinetic–pharmacodynamic model for duodenal levodopa infusion. Clin Neuropharmacol. 2011;34(2):61–5.
-
+- Klim S, Mortensen SB, Kristensen NR, Overgaard RV, Madsen H. Population stochastic modelling (PSM)—an R package for mixed-effects models based on stochastic differential equations. Comput Methods Programs Biomed. 2009;94(3):279–89.
